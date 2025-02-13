@@ -1,4 +1,4 @@
-![logo](https://github.com/Niveshrawat/Niveshrawat/blob/main/Banner.png)
+<img src="https://github.com/Niveshrawat/Niveshrawat/blob/main/Banner.png" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Nivesh Rawat</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
